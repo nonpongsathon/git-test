@@ -1,4 +1,4 @@
-Hello
+Edit for conflict
 
 gitmerge
 
