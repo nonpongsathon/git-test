@@ -2,4 +2,4 @@ Hello
 
 gitmerge
 
-test
+Second Edit
