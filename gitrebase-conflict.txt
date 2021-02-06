@@ -2,4 +2,8 @@ Hello
 
 rebase
 
+<<<<<<< HEAD
 Edit for conflict
+=======
+Edit for conflict in new branch
+>>>>>>> branch-for-rebase
