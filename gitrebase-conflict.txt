@@ -2,4 +2,4 @@ Hello
 
 rebase
 
-conflict
+Edit for conflict
